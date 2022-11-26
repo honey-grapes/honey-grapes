@@ -1,4 +1,4 @@
-#  :wave: Hi, I'm Josephine! <img height="50" width="50" src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" align="center"> 
+#  :wave: Hi, I'm Josephine! <img height="50" width="50" src="https://media3.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" align="center"> 
  
 <p align="center">
  <em>
