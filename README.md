@@ -23,16 +23,12 @@
 <code><img height="30" width:"30" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" /></code>
 <!--Swift-->
 <code><img height="30" width:"30" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /></code>
-<!--Ruby-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" /></code>
+<!--Ruby on Rails-->
+<code><img height="30" width:"30" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" /></code>
 <!--Java-->
 <code><img height="30" width:"30" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" /></code>
 <!--C-->
 <code><img height="30" width:"30" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" /></code>
- <!--HTML-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></code>
-<!--CSS-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></code>
 <!--JS-->
 <code><img height="30" width:"30" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /></code>
 <!--NodeJS-->
@@ -41,11 +37,28 @@
 <code><img height="30" width:"30" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /></code>
 <!--Bootstrap-->
 <code><img height="30" width:"30" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" /></code>
-<!--MYSQL-->
-<code><img height="30" width:"30" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /></code>
+ <!--Flask-->
+<code><img height="30" width:"30" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></code>
+<!--Firebase-->
+<code><img height="30" width:"30" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /></code>
+<!--PostgreSQL-->
+<code><img height="30" width:"30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /></code>
 <!--MongoDB-->
 <code><img height="30" width:"30" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" /></code>
 </p>
+<!--Heroku-->
+<code><img height="30" width:"30" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></code>
+ <!--HTML-->
+<code><img height="30" width:"30" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" /></code>
+<!--CSS-->
+<code><img height="30" width:"30" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" /></code>
+<!--Blender-->
+<code><img height="30" width:"30" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /></code>
+<!--Figma-->
+<code><img height="30" width:"30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></code>
+
+<h2> Stats </h2>
+<code><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue" /></code>
 
 <h2> Follow me </h2>
 <p align="center">
