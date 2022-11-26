@@ -1,4 +1,4 @@
-#  :wave: Hi, I'm Josephine! <img height="50" width="50" src="https://media3.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" align="center"> 
+#  :wave: Hi, I'm Josephine! <img height="50" width="50" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/microsoft/74/dino-cat_1f431-200d-1f409.png" align="center"> 
  
 <p align="center">
  <em>
