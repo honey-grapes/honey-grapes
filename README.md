@@ -58,11 +58,12 @@
 <code><img height="30" width:"30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></code>
 
 <h2> Stats </h2>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=honey-grapes&theme=vue" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=honey-grapes" align="center"/>
 
 <h2> Follow me </h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/josephine-chan-927977b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp; &nbsp; &nbsp; 
+<a href="https://www.linkedin.com/in/josephine-chan-927977b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!-- <a href="https://github.com/honey-grapes"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> &nbsp;  &nbsp; &nbsp;
  -->
