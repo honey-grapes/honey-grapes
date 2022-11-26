@@ -8,7 +8,7 @@
  
   
 <h2> About Me </h2>
- <img height="350" width="450" align="right" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" />
+ <img height="350" width="450" align="right" src="tiger-dumplings.png" />
 
 - :lion: I am pursuing MS in Computer Science at <a href="https://www.columbia.edu/">Columbia University, New York </a>.
 - :bear: I have completed my BSBA double major in Finance and Accounting and minor in Communication Designs from <a href="https://wustl.edu/">Washington University of St. Louis</a>.
