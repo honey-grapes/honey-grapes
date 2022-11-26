@@ -58,7 +58,7 @@
 <code><img height="30" width:"30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></code>
 
 <h2> Stats </h2>
-<code><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue" /></code>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue" />
 
 <h2> Follow me </h2>
 <p align="center">
