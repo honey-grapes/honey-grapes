@@ -11,9 +11,10 @@
  <img height="350" width="450" align="right" src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" />
 
 - :lion: I am pursuing MS in Computer Science at <a href="https://www.columbia.edu/">Columbia University, New York </a>.
-- :bear: I have completed my BSBA from <a href="https://wustl.edu/">Washington University of St. Louis</a>.
+- :bear: I have completed my BSBA double major in Finance and Accounting and minor in Communication Designs from <a href="https://wustl.edu/">Washington University of St. Louis</a>.
 - 💻 Previously, I have worked as a Software Engineer Intern at <a href="https://everfit.io/">Everfit.io</a> and as an :money_with_wings: Investment Banking Analyst at <a href="https://www.jpmorgan.com/solutions/cib/investment-banking">J.P. Morgan's Technology, Media, and Telecommunication team.</a>
 - :woman_technologist: I am a Full Stack Developer and iOS developer.
+- :art: My hobbies include drawing, graphic design, and karaoke. I enjoy anything that involves building and creating!
  
 <h2> Worked With </h2>
 <p>
