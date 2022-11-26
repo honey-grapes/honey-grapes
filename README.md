@@ -12,9 +12,12 @@
 
 - :lion: I am pursuing MS in Computer Science at <a href="https://www.columbia.edu/">Columbia University, New York </a>.
 - :bear: I have completed my BSBA double major in Finance and Accounting and minor in Communication Designs from <a href="https://wustl.edu/">Washington University of St. Louis</a>.
-- 💻 Previously, I have worked as a Software Engineer Intern at <a href="https://everfit.io/">Everfit.io</a> and as an :money_with_wings: Investment Banking Analyst at <a href="https://www.jpmorgan.com/solutions/cib/investment-banking">J.P. Morgan's Technology, Media, and Telecommunication team.</a>
+- 💻 I have worked as a Software Engineer Intern at <a href="https://everfit.io/">Everfit.io</a>
+- Before that, I was an :money_with_wings: Investment Banking Analyst at <a href="https://www.jpmorgan.com/solutions/cib/investment-banking">J.P. Morgan's Technology, Media, and Telecommunication team</a> for two years.
 - :woman_technologist: I am a Full Stack Developer and iOS developer.
-- :art: My hobbies include drawing, graphic design, and karaoke. I enjoy anything that involves building and creating!
+- :art: My hobbies include drawing, graphic design, and karaoke. I enjoy anything that involves building and creating! The image on the right showcases the tiger dumplings I made to celebrate the year of tiger.
+<div><div/>
+<div><div/>
  
 <h2> Worked With </h2>
 <p>
