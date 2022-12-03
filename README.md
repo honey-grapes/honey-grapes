@@ -14,7 +14,7 @@
 - :bear: I have completed my BSBA double major in Finance and Accounting and minor in Communication Designs from <a href="https://wustl.edu/">Washington University of St. Louis</a>.
 - 💻 I have worked as a Software Engineer Intern at <a href="https://everfit.io/">Everfit.io</a>, where I utilized React, Redux, and Express to add functionalities and APIs to the company's internal CMS web app.
 - Before that, I was an :money_with_wings: Investment Banking Analyst at <a href="https://www.jpmorgan.com/solutions/cib/investment-banking">J.P. Morgan's Technology, Media, and Telecommunication team</a> for two years. I had the opportunity to work with tech companies and startups, which inspired me to pursue the technical side of these interesting endeavors instead of sticking solely to the financial portion.
-- :woman_technologist: I am a Full Stack Developer and iOS developer.
+- :woman_technologist: I am an aspiring Full Stack Developer and iOS developer.
 - :art: My hobbies include drawing, graphic design, and karaoke. I enjoy anything that involves building and creating! The image on the right showcases the tiger dumplings I made to celebrate the year of the tiger 🐯.
  
 <h2> Worked With </h2>
