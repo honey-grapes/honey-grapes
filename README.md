@@ -59,8 +59,8 @@
 
 <h2> Stats </h2>
 <p align="center">
-<img align="center" width=580 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=honey-grapes&theme=github" />
- <img align="center" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=honey-grapes&layout=compact"/>
+<img align="center" width=420 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=honey-grapes&theme=github" />
+ <img align="center" width=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=honey-grapes&layout=compact"/>
 </p>
 
 <h2> Follow me </h2>
